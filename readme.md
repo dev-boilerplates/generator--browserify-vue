@@ -1,13 +1,10 @@
 #__PROJECTNAME
 
-
 Tricks included:
 
 * Browserify
-* Vue
-* Vue-router
-* Vue-resource
-* ES6
+* Vue 2
+* ES6 | Babel
 
 **Project Enviroments**
 
