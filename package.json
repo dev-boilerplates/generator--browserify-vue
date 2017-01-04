@@ -17,6 +17,7 @@
     "watchify": "^3.7.0"
   },
   "scripts": {
+    "firstrun": "mkdir public public/css public/js; npm start",
     "start": "npm-run-all --parallel server:localhost listen:*",
     "build": "npm-run-all --parallel build:*",
     "server:localhost": "live-server ./public --port=3000",
